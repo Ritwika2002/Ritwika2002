@@ -1,5 +1,3 @@
-<img  width="1200"  height="450"  src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" width="500"> 
- <br><br>
 
 # 😎 I Am Ritwika Roy
 Hi there, I'm Ritwika Roy, a web developer with a passion for creating beautiful and professional websites. I'm always eager to learn new skills and technologies to enhance my development skills. 
